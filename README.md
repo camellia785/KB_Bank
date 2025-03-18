@@ -3,6 +3,13 @@
 KB국민은행 KB_Bank 기능 GitHub협업 레포입니다.
 
 
+## footer service 추가
+
+- 대표 전화
+- 상담
+- 비교 조회
+=======
+
 # footer
 
 ## 기타 문의
@@ -39,6 +46,4 @@ KB국민은행 KB_Bank 기능 GitHub협업 레포입니다.
 - mypage.html추가
 
 ## 로그인
-
-- login.html 추가
 
